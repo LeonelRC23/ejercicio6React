@@ -1,0 +1,15 @@
+.principalContainer {
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.colorBlock {
+    border: 1px solid #000;
+    height: 100px;
+    width: 100px;
+    /* background-color: aqua; */
+}
+
+.infoContainer {
+    background-color: rgb(201, 247, 231);
+}
