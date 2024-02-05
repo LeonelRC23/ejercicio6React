@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "react-bootstrap";
-import "../styles/CardSmall.css";
+import "../styles/cardSmall.css";
 
 const CardSmall = ({ colorNombre, deleteColor }) => {
   return (
